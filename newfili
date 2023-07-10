@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style type="testekkk.css">
+   body {
+     background-color: black;
+     
+   }
+  </style>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>SitezinBasico</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <p>slaa kkk</p>
+  <h3>teste de cor kkkj</h3>
+    <h2>teste ainda '-'</h2>
+      <h1>'---'</h1>
+        <h5> cabei</h5>
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+</html>
